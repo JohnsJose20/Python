@@ -13,7 +13,5 @@ First_name_length=len(First_name)
 print(First_name_length)
 Extracted_first_name=Name[:First_name_length]
 print(Extracted_first_name)
-Last_name_length=len(Last_name)
-print(Last_name_length)
-Extracted_last_name=Name[Last_name_length+2:]
+Extracted_last_name=Name[First_name_length+1:]
 print(Extracted_last_name)
