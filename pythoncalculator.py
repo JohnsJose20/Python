@@ -1,7 +1,6 @@
 '''Authore: Johns Jose
 Date: 19-10-2024
-a Python program that performs the following tasks:
-User Input,Addition,Sum,etc.'''
+Simple desktop calculator using Python. Only the five basic arithmetic operators.'''
 
 num1=int(input("Enter the num1: "))
 num2=int(input("Enter the num2: "))
