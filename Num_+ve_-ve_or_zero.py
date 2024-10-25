@@ -6,8 +6,8 @@ Description: Write a Python program to check the given number is q positive,nega
 
 Num_1=int(input("Enter first number:"))
 if(Num_1>0):
-    print(Num_1," is positive")
+    print(Num_1," is a positive")
 elif(Num_1<0):
-    print(Num_1," is negative")
+    print(Num_1," is a negative")
 else:
     print(Num_1," is a zero")
