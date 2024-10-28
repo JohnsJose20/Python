@@ -23,6 +23,8 @@ while True:
         print(f"{Celsius} Celsius")
     elif option==3:
         break
+    else:
+        print("Invalid Entry")
 
 
 
